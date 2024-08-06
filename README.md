@@ -44,3 +44,11 @@ Inicia La Api.
 (post) http://localhost:5021/api/auth/login  -Token de login 
 (get) http://localhost:5021/api/products     -Obtener productos
 (delete) http://localhost:5021/api/products/4   -Eliminar prodcutos por id 
+
+
+-----------------------------------------------------------------------------------
+
+Usuario y contraseña del login
+
+test
+password 
